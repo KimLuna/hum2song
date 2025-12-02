@@ -1,0 +1,15 @@
+# 핵심 모델 (Spotify Basic Pitch)
+basic-pitch
+
+# 오디오 로딩 및 DSP 처리 (전처리에 필수)
+librosa
+soundfile
+numpy
+scipy
+
+# 노이즈 제거 (허밍 녹음 잡음 제거용)
+noisereduce
+
+# MIDI 파일 다루기 및 분석 (후처리 및 결과 검증용)
+pretty_midi
+mido
